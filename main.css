@@ -1,0 +1,36 @@
+body {
+    background-color: #cffdff;
+}
+
+.col form input {
+    background-color: #e6feff;
+}
+
+.container {
+    width: 100%;
+    max-width: 500px;    
+    margin: 0 auto;
+    margin-top: 100px;
+    border: solid 2px #818181;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+h1 {
+    padding: 15px 0;
+    text-align: center;
+}
+
+.form-label {
+    font-weight: bold;
+    display: block;
+    margin-top: 15px;
+}
+
+.form-campo .error {
+    color: rgb(255, 0, 0);
+}
+
+.form-campo-botao button {
+    margin-top: 15px;
+}
